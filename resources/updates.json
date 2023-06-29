@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "xcar_traditional@timelegend.net": {
+      "updates": [
+        {
+          "version": "0.1.0",
+          "update_link": "https://github.com/elementdavv/xcar_traditional/releases/download/v0.1.0/xcar_traditional-0.1.0.xpi"
+        },
+      ]
+    }
+  }
+}
