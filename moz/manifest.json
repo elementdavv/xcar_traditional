@@ -9,7 +9,7 @@
     , "browser_specific_settings": {
         "gecko": {
             "id": "xcar_traditional@timelegend.net"
-            "update_url": "https://raw.githubusercontent.com/elementdavv/xcar_traditional/master/resources/updates.json"
+            , "update_url": "https://raw.githubusercontent.com/elementdavv/xcar_traditional/master/resources/updates.json"
         }
     }
     , "icons": {
